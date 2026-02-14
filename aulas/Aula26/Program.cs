@@ -5,7 +5,14 @@ public class Program
     public static void Main()
     {
         //Instância da Classe
-        Cake cake = new Cake();
+        Cake cake = new Cake(); // sempre vai ser executado oq está lá
+
+        Console.WriteLine($"Sabor: {cake.Flavor} ");
+        Console.WriteLine($"Recheio: {cake.Filling} ");
+        Console.WriteLine($"Cobertura: {cake.Coverage} ");
+        Console.WriteLine($"Camadas: {cake.Layers} ");
+        Console.WriteLine($"Tamanho: {cake.Size} ");
+        
 
         //Console.WriteLine(cake);
     }
