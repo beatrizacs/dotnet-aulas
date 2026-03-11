@@ -18,6 +18,7 @@ else if (diasParaVencimento <= 5)
 }
 else if (diasParaVencimento <= 10)
 {
+    Console.WriteLine($"Sua assinatura expira em {diasParaVencimento} days.");
     Console.WriteLine("Sua assinatura expirará em breve. Renove agora!");
 }
 
