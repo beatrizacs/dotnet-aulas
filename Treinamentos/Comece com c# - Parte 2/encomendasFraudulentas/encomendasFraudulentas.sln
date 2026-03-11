@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encomendasFraudulentas", "encomendasFraudulentas.csproj", "{CD2D5A87-CF79-7AF3-A0FB-8BBDB6954FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD2D5A87-CF79-7AF3-A0FB-8BBDB6954FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2D5A87-CF79-7AF3-A0FB-8BBDB6954FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2D5A87-CF79-7AF3-A0FB-8BBDB6954FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2D5A87-CF79-7AF3-A0FB-8BBDB6954FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BCE7640-3070-4A04-8280-390591DF6B0A}
+	EndGlobalSection
+EndGlobal
